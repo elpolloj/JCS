@@ -20,23 +20,23 @@ const SpecialOffer = () => {
           Offer
         </h2>
         <p className='mt-4 info-text'>
-          Embark on a shopping journey that redefines your experience with
-          unbeatable deals. From premier selections to incredible savings, we
-          offer unparalleled value that sets us apart.
+        Embark on a shopping journey that redefines your experience with unbeatable deals.
+        From premier software solutions to cutting-edge hardware, 
+        we offer unparalleled value that sets Jarrah Compu-serve apart.
         </p>
         <p className='mt-6 info-text'>
-          Navigate a realm of possibilities designed to fulfill your unique
-          desires, surpassing the loftiest expectations. Your journey with us is
-          nothing short of exceptional.
+        Navigate a realm of possibilities designed to fulfill your unique desires, 
+        surpassing the loftiest expectations. Whether you need top-tier software, 
+        the latest hardware, or comprehensive IT services, 
+        your journey with us is nothing short of exceptional. 
+        Discover the difference with JCS today.
         </p>
         <div className='mt-11 flex flex-wrap gap-4'>
-          <Button label='Shop now' iconURL={arrowRight} />
-          <Button
-            label='Learn more'
-            backgroundColor='bg-white'
-            borderColor='border-slate-gray'
-            textColor='text-slate-gray'
-          />
+        <Button
+          label='Shop now'
+          iconURL={arrowRight}
+          redirectURL='https://wa.me/c/96176976500'
+        />
         </div>
       </div>
     </section>

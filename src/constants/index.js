@@ -1,54 +1,60 @@
-import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
+import { facebook, instagram, shieldTick, support, truckFast } from "../assets/icons";
 import { bigDesktop1, bigPOS, bigPrinter, customer1, customer2, laptop1, laptop2, minipc, scanner, thumbnailDesktop1, thumbnailPos, thumbnailPrinter } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
-    { href: "#about-us", label: "About Us" },
     { href: "#products", label: "Products" },
+    { href: "#about-us", label: "About Us" },
     { href: "#contact-us", label: "Contact Us" },
 ];
 
-export const shoes = [
+export const Products = [
     {
         thumbnail: thumbnailDesktop1,
-        bigShoe: bigDesktop1,
+        bigProduct: bigDesktop1,
+        name: "Desktop Bundle",
+        description: "High-performance desktop computer for all your computing needs.",
     },
     {
         thumbnail: thumbnailPos,
-        bigShoe: bigPOS,
+        bigProduct: bigPOS,
+        name: "POS System",
+        description: "Efficient POS system to streamline your business operations.",
     },
     {
         thumbnail: thumbnailPrinter,
-        bigShoe: bigPrinter,
+        bigProduct: bigPrinter,
+        name: "Printer",
+        description: "Reliable printer for high-quality document printing.",
     },
 ];
 
 export const statistics = [
-    { value: '1k+', label: 'Brands' },
+    { value: '100+', label: 'Brands' },
     { value: '500+', label: 'Shops' },
-    { value: '250k+', label: 'Customers' },
+    { value: '1k+', label: 'Customers' },
 ];
 
 export const products = [
     {
         imgURL: laptop1,
-        name: "Nike Air Jordan-01",
-        price: "$200.20",
+        name: "Lenovo Thinkpad L15",
+        price: "$599.99",
     },
     {
         imgURL: laptop2,
-        name: "Nike Air Jordan-10",
-        price: "$210.20",
+        name: "Lenovo K14 Gen 1",
+        price: "$749.99",
     },
     {
         imgURL: minipc,
-        name: "Nike Air Jordan-100",
-        price: "$220.20",
+        name: "Mini PC intel i5",
+        price: "$299.99",
     },
     {
         imgURL: scanner,
-        name: "Nike Air Jordan-001",
-        price: "$230.20",
+        name: "Sunlux XL-6200 Scanner",
+        price: "$44.99",
     },
 ];
 
@@ -56,12 +62,12 @@ export const services = [
     {
         imgURL: truckFast,
         label: "Free shipping",
-        subtext: "Enjoy seamless shopping with our complimentary shipping service."
+        subtext: "Enjoy seamless shopping with our complimentary shipping service, all over Lebanon."
     },
     {
         imgURL: shieldTick,
-        label: "Secure Payment",
-        subtext: "Experience worry-free transactions with our secure payment options."
+        label: "Warranty Guarantee",
+        subtext: "Experience worry-free purchasing with our warranty guarantee."
     },
     {
         imgURL: support,
@@ -73,15 +79,15 @@ export const services = [
 export const reviews = [
     {
         imgURL: customer1,
-        customerName: 'Morich Brown',
-        rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
+        customerName: 'Armando Jarrah',
+        rating: 5,
+        feedback: "JCS transformed our business operations with their innovative software solutions. Their team is incredibly knowledgeable and responsive, providing tailored solutions that exceeded our expectations. Highly recommended!"
     },
     {
         imgURL: customer2,
-        customerName: 'Lota Mongeskar',
+        customerName: 'Jihad Jarrah',
         rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+        feedback: "Working with JCS has been a game-changer for our company. Their expertise in software development is unmatched. They delivered a seamless, high-quality product that has significantly improved our workflow."
     }
 ];
 
@@ -90,35 +96,35 @@ export const footerLinks = [
     {
         title: "Products",
         links: [
-            { name: "Air Force 1", link: "/" },
-            { name: "Air Max 1", link: "/" },
-            { name: "Air Jordan 1", link: "/" },
-            { name: "Air Force 2", link: "/" },
-            { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
+            { name: "Desktops", link: "https://wa.me/c/96176976500" },
+            { name: "POS Systems", link: "https://wa.me/c/96176976500" },
+            { name: "Laptops", link: "https://wa.me/c/96176976500" },
+            { name: "Barcode", link: "https://wa.me/c/96176976500" },
+            { name: "Printers", link: "https://wa.me/c/96176976500" },
+            { name: "Fingerprint Scanners", link: "https://wa.me/c/96176976500" },
         ],
     },
     {
-        title: "Help",
+        title: "Services",
         links: [
-            { name: "About us", link: "/" },
-            { name: "FAQs", link: "/" },
-            { name: "How it works", link: "/" },
-            { name: "Privacy policy", link: "/" },
-            { name: "Payment policy", link: "/" },
+            { name: "Software Development", link: "https://wa.me/9613989214" },
+            { name: "IT Consulting", link: "https://wa.me/96176976500" },
+            { name: "Hardware Solutions", link: "https://wa.me/96176976500" },
+            { name: "Cloud Services", link: "https://wa.me/9613989214" },
+            { name: "Cybersecurity", link: "https://wa.me/9613989214" },
         ],
     },
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "+96171767000", link: "tel:+96171767000" },
+            { name: "+96176976500", link: "tel:+96176976500" },
+            { name: "+9613989214", link: "tel:+9613989214" },
         ],
     },
 ];
 
 export const socialMedia = [
-    { src: facebook, alt: "facebook logo" },
-    { src: twitter, alt: "twitter logo" },
-    { src: instagram, alt: "instagram logo" },
+    { src: facebook, alt: "facebook logo", link: "https://www.facebook.com/JCSsys/" },
+    { src: instagram, alt: "instagram logo", link: "https://www.instagram.com/jarrah.compu_serve" },
 ];

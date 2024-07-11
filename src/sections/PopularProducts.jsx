@@ -9,8 +9,9 @@ const PopularProducts = () => {
           Our <span className='text-navy-blue'> Popular </span> Products
         </h2>
         <p className='lg:max-w-lg mt-2 font-montserrat text-slate-gray'>
-          Experience top-notch quality and style with our sought-after
-          selections. Discover a world of comfort, design, and value
+        Experience cutting-edge quality and innovation with our top selections at Jarrah Compu-serve. 
+        Discover a world of advanced technology, sleek design, 
+        and exceptional value with our premier products.
         </p>
       </div>
 

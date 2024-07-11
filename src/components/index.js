@@ -1,6 +1,6 @@
 import Button from "./Button";
 import Nav from "./Nav";
-import ShoeCard from "./ShoeCard";
+import ProductCard from "./ProductCard";
 import PopularProductCard from "./PopularProductCard";
 import ServiceCard from "./ServiceCard";
 import ReviewCard from "./ReviewCard";
@@ -8,7 +8,7 @@ import ReviewCard from "./ReviewCard";
 export {
     Button,
     Nav,
-    ShoeCard,
+    ProductCard,
     PopularProductCard,
     ServiceCard,
     ReviewCard,

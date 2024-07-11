@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1500 500" style="enable-background:new 0 0 1500 500;" xml:space="preserve">
+	 viewBox="0 0 559.26 500" style="enable-background:new 0 0 559.26 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+</style>
 <g>
-	<defs>
-		<path id="SVGID_1_" d="M1034.98,489.43H601.59c-28.25,0-51.16-22.9-51.16-51.16V57.16C550.43,28.9,573.33,6,601.59,6h433.39
-			c28.25,0,51.16,22.9,51.16,51.16v381.11C1086.14,466.52,1063.24,489.43,1034.98,489.43z"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-	</clipPath>
-	<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_2_);">
-		
-			<image style="overflow:visible;" width="506" height="502" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M496.34,489.43H62.95c-28.25,0-51.16-22.9-51.16-51.16V57.16C11.79,28.9,34.69,6,62.95,6h433.39
+				c28.25,0,51.16,22.9,51.16,51.16v381.11C547.5,466.52,524.6,489.43,496.34,489.43z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 0 0)" class="st0">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="506" height="502" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAA3MAAAaXAAAHab/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
 JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAfYB+gMBIgACEQEDEQH/
@@ -145,11 +149,12 @@ c1VxbqJJJJJ632Gq97+3wWlupLac1ZZaeXSiypHPUW6mySSey/Gar3v7THRaWtE1liLHUW6mSST2
 yP68jVe9/Z7X0WFjJJJJJJ7f8P4Gq99mkkkkknomgvYN/d9inokkmifjzHe6f+GvaO90/wDDWO+n
 /hq2dwI/p/EdP/EO3xfRK6f89dKJRKJJWZKzJWZKz4ErPgSs+BKzJWZKzJWfAlZ8CVmSsyVmSsyV
 mSSsyVmTvOZZ8DmWfAlZ8CVnwJWZzLPgcyz4ErPh0SSsyVnwJWZKz4HMs+BzLPgcyz4HMs+BzLPg
-cyz4HMv+OWB//9k=" transform="matrix(1.0587 0 0 0.963 550.4286 5.9999)">
-		</image>
+cyz4HMv+OWB//9k=" transform="matrix(1.0587 0 0 0.963 11.7857 5.9999)">
+			</image>
+		</g>
 	</g>
 </g>
-<image style="overflow:visible;" width="725" height="515" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtUAAAIDCAYAAADL1OJZAAAgAElEQVR4nOy9ebQlSV7f9/lFRGbe
+<image style="overflow:visible;enable-background:new    ;" width="725" height="515" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtUAAAIDCAYAAADL1OJZAAAgAElEQVR4nOy9ebQlSV7f9/lFRGbe
 7e21dXV3dReNhhmWQRqB4MwwAi2WZGQhWSBjY6yDhBCHoz/wwRY62Ehg63hspGPjg8a2xCChYRGL
 RoMYASOJRQYPAsEgZuiZ6aGX6uq9u7a33yUzFv8RmXnz3nrv1fJe13tVnd86t26+e29mRmbG8o1v
 fOMXEkKgRYsWLVq0aNGiRYsWdw913Alo0aJFixYtWrRo0eJ+R0uqW7Ro0aJFixYtWrQ4JFpS3aJF
@@ -4369,6 +4374,6 @@ uK7L/UM9KTkMedqIiQRBEARBEASRhj5GSVo4Zp3Wu3/oqG8RBEEQBEEQBFGG2gVzEZoc8rtyh3GC
 IAiCIAiCSGDuxl0mBOlagiCIRqiq+mVkswjRW4mRPNrBHJh3jseSt2iXtJZylnD9UFMohwpZhhBn
 rK2ZH2KW/SJe/Kyk9QiCIAiCIAiCKA6JaoIgCIIgCIIwpEmfaoIgCKIKBADW5oZlIpHKBlduCvMy
 2uZSTmlfPkhUEwRBLB0sX3zRU3EhKH0ZKh26ok7MvIqXofi2/hxaXf4AtHTwF4IgCGLRoMCmjUPZ
-b5YDlH8N0n5BXQnkU00QBEEQBEEQhvwfRuoM1ZdBRiIAAAAASUVORK5CYII=" transform="matrix(0.7714 0 0 0.699 538.6429 47.1429)">
+b5YDlH8N0n5BXQnkU00QBEEQBEEQhvwfRuoM1ZdBRiIAAAAASUVORK5CYII=" transform="matrix(0.7714 0 0 0.699 0 47.1429)">
 </image>
 </svg>
